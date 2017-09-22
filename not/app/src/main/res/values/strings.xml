@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Notunu Paylaş</string>
+
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+
+    <string name="auth_failed">Başarısız İşlem! E-posta ve parolanızı kontrol edin veya kayıt olun.</string>
+
+    <string name="new_pass">New Password</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_sing_up">Sign Up</string>
+    <string name="btn_sign_out">Sign Out</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">Parola sıfırla işlemi için geçerli e-posta adresinizi girin.</string>
+    <string name="minimum_password">Minumum 6 karakterli parola oluşturun!</string>
+
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+</resources>

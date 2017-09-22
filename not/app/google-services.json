@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "93603328533",
+    "firebase_url": "https://notpaylas-3d47d.firebaseio.com",
+    "project_id": "notpaylas-3d47d",
+    "storage_bucket": "notpaylas-3d47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93603328533:android:5dadd6d5b8fd7103",
+        "android_client_info": {
+          "package_name": "com.example.saruhan.not"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93603328533-4tdk3pprrciqr3omc3h4dko7fjbgeuv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQW9hDgxxPtDxkF2Xv2FJBz_ZlOpIF9tk"
+        },
+        {
+          "current_key": "AIzaSyCPjOIFuJdGoizT3mDwfCumQVN40jJTCiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
